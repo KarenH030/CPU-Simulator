@@ -1,0 +1,5 @@
+   mov r1 3
+   mov r2 gg
+ loop:
+   add r1 r2
+   add r1 6
